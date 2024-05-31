@@ -1,0 +1,6 @@
+Turing Moore Engineering Temperature Data Analyzer 1.0
+Total rows: 365 Total columns: 8
+Hottest day: 2022-1-1 Temperature: 38.2
+Coldest day: 2022-5-30 Temperature: 8.4
+Mean temperature for the year: 20.7071
+Median temperature for the year: 19.2
